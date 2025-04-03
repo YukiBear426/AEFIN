@@ -4,8 +4,7 @@
 
 The following is the primary architecture of our proposed model.
 
-![image1](https://github.com/user-attachments/assets/d6e405ef-7ec3-4226-a122-68e993dd966f)
-
+![image1](https://github.com/user-attachments/assets/57b024bf-94c4-4c6b-a948-a6250877ff57)
 
 ## Prepare datasets
 ETTh1, ETTh2, ETTm1, ETTm2, ExchangeRate, Weather and Electricity will be downloaded automatically.
