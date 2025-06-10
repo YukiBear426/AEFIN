@@ -38,7 +38,7 @@ source ./init.sh
 To run our model AEFIN with the Dlinear Informer SCINet backbone and output lengths 96, 168, 336, and 720 on datasets such as ExchangeRate, Electricity, ETTh1, and ETTh2, use the following command:
 
 ```bash
-./scripts/run_fan_wandb.sh "Dlinear" "AEFIN" "ExchangeRate" "96 168 336 720" "cuda:0" 96 "{freq_topk:2}"
+./scripts/run_aefin_wandb.sh "Dlinear" "AEFIN" "ExchangeRate" "96 168 336 720" "cuda:0" 96 "{freq_topk:2}"
 ```
 
 # Run all baselines
